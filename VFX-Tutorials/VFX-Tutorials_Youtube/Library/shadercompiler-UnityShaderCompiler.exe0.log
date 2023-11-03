@@ -1,0 +1,429 @@
+Base path: 'C:/Program Files/Unity/Editor/Data', plugins path 'C:/Program Files/Unity/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=6374 outsize=6376 ok=1
+Cmd: preprocessCompute
+  insize=5816 outsize=5818 ok=1
+Cmd: preprocess
+  insize=39491 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=1968 outsize=1970 ok=1
+Cmd: preprocessCompute
+  insize=6374 outsize=6376 ok=1
+Cmd: preprocessCompute
+  insize=5816 outsize=5818 ok=1
+Cmd: preprocess
+  insize=39491 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=1968 outsize=1970 ok=1
+Cmd: preprocessCompute
+  insize=6340 outsize=6342 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6342 outsize=2207 ok=1
+Cmd: preprocessCompute
+  insize=5816 outsize=5818 ok=1
+Cmd: preprocess
+  insize=39500 outsize=635 ok=1
+Cmd: preprocessCompute
+  insize=1968 outsize=1970 ok=1
+Cmd: preprocessCompute
+  insize=7540 outsize=7542 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7542 outsize=2702 ok=1
+Cmd: preprocessCompute
+  insize=9268 outsize=9270 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9270 outsize=8548 ok=1
+Cmd: preprocessCompute
+  insize=6664 outsize=6666 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(107): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6666 outsize=1989 ok=1
+Cmd: preprocessCompute
+  insize=7398 outsize=7400 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7400 outsize=7917 ok=1
+Cmd: preprocess
+  insize=36410 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7540 outsize=7542 ok=1
+Cmd: preprocessCompute
+  insize=9268 outsize=9270 ok=1
+Cmd: preprocessCompute
+  insize=6670 outsize=6672 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(107): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6672 outsize=1989 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7412 outsize=7917 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7542 outsize=7544 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7544 outsize=2702 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9272 outsize=8548 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(107): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6673 outsize=1989 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7542 outsize=7544 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7542 outsize=7544 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=6724 outsize=6726 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6726 outsize=2287 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=6409 outsize=6411 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6411 outsize=1805 ok=1
+Cmd: preprocessCompute
+  insize=9314 outsize=9316 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9316 outsize=8512 ok=1
+Cmd: preprocessCompute
+  insize=6673 outsize=6675 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(107): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6675 outsize=1989 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=6845 outsize=6847 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6847 outsize=1908 ok=1
+Cmd: preprocessCompute
+  insize=9314 outsize=9316 ok=1
+Cmd: preprocessCompute
+  insize=6673 outsize=6675 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=6845 outsize=6847 ok=1
+Cmd: preprocessCompute
+  insize=9314 outsize=9316 ok=1
+Cmd: preprocessCompute
+  insize=6673 outsize=6675 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=6845 outsize=6847 ok=1
+Cmd: preprocessCompute
+  insize=9314 outsize=9316 ok=1
+Cmd: preprocessCompute
+  insize=6673 outsize=6675 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=6845 outsize=6847 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6847 outsize=1908 ok=1
+Cmd: preprocessCompute
+  insize=9314 outsize=9316 ok=1
+Cmd: preprocessCompute
+  insize=6673 outsize=6675 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7930 outsize=2581 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9272 outsize=8548 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(107): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6673 outsize=1985 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=9270 outsize=9272 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7930 outsize=2581 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10620 outsize=9683 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6671 outsize=6673 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=5976 outsize=5978 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(95): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=5978 outsize=1823 ok=1
+Cmd: preprocessCompute
+  insize=6576 outsize=6578 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6578 outsize=7302 ok=1
+Cmd: preprocess
+  insize=36216 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6820 outsize=6822 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(105): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6822 outsize=1935 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6820 outsize=6822 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36653 outsize=627 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6820 outsize=6822 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36420 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6820 outsize=6822 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=36925 outsize=627 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6990 outsize=6992 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Effect.vfx(107): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6992 outsize=2317 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=37597 outsize=626 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6990 outsize=6992 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=37587 outsize=627 ok=1
+Cmd: preprocessCompute
+  insize=7612 outsize=7614 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7614 outsize=2530 ok=1
+Cmd: preprocessCompute
+  insize=9334 outsize=9336 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9336 outsize=7915 ok=1
+Cmd: preprocessCompute
+  insize=6605 outsize=6607 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Trails.vfx(103): use of potentially uninitialized variable (GetParticleIndex)
+  api=4 insize=6607 outsize=1879 ok=1
+Cmd: preprocessCompute
+  insize=7434 outsize=7436 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7436 outsize=6522 ok=1
+Cmd: preprocess
+  insize=36419 outsize=635 ok=1
+Cmd: preprocessCompute
+  insize=7612 outsize=7614 ok=1
+Cmd: preprocessCompute
+  insize=9334 outsize=9336 ok=1
+Cmd: preprocessCompute
+  insize=6605 outsize=6607 ok=1
+Cmd: preprocessCompute
+  insize=7434 outsize=7436 ok=1
+Cmd: preprocess
+  insize=36419 outsize=635 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6990 outsize=6992 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=37587 outsize=627 ok=1
+Cmd: preprocessCompute
+  insize=7928 outsize=7930 ok=1
+Cmd: preprocessCompute
+  insize=10618 outsize=10620 ok=1
+Cmd: preprocessCompute
+  insize=6990 outsize=6992 ok=1
+Cmd: preprocessCompute
+  insize=7410 outsize=7412 ok=1
+Cmd: preprocess
+  insize=37587 outsize=627 ok=1
+Cmd: preprocessCompute
+  insize=7855 outsize=7857 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7857 outsize=2477 ok=1
+Cmd: preprocessCompute
+  insize=10537 outsize=10539 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10539 outsize=8734 ok=1
+Cmd: preprocessCompute
+  insize=6990 outsize=6992 ok=1
+Cmd: preprocessCompute
+  insize=7446 outsize=7448 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7448 outsize=6522 ok=1
+Cmd: preprocess
+  insize=37587 outsize=627 ok=1
+Cmd: preprocessCompute
+  insize=7855 outsize=7857 ok=1
+Cmd: preprocessCompute
+  insize=10537 outsize=10539 ok=1
+Cmd: preprocessCompute
+  insize=6990 outsize=6992 ok=1
+Cmd: preprocessCompute
+  insize=7446 outsize=7448 ok=1
+Cmd: preprocess
+  insize=37587 outsize=627 ok=1
